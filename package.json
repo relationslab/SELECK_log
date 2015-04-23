@@ -1,0 +1,22 @@
+{
+  "name": "seleck-log",
+  "version": "0.0.1",
+  "description": "logger extends winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/relationslab/SELECK_log"
+  },
+  "author": "Keita Moromizato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/relationslab/SELECK_log/issues"
+  },
+  "homepage": "https://github.com/relationslab/SELECK_log",
+  "dependencies": {
+    "winston": "^1.0.0"
+  }
+}
